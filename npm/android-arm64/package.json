@@ -1,5 +1,5 @@
 {
-  "name": "-android-arm64",
+  "name": "@barathrajd/cool-android-arm64",
   "version": "0.0.3",
   "os": [
     "android"
@@ -7,11 +7,11 @@
   "cpu": [
     "arm64"
   ],
-  "main": ".android-arm64.node",
+  "main": "cool.android-arm64.node",
   "files": [
-    ".android-arm64.node"
+    "cool.android-arm64.node"
   ],
-  "description": "Rust based nodejs library",
+  "description": "Nodejs library based on rust using napi",
   "license": "MIT",
   "engines": {
     "node": ">= 10"

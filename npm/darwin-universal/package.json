@@ -1,14 +1,14 @@
 {
-  "name": "-darwin-universal",
+  "name": "@barathrajd/cool-darwin-universal",
   "version": "0.0.3",
   "os": [
     "darwin"
   ],
-  "main": ".darwin-universal.node",
+  "main": "cool.darwin-universal.node",
   "files": [
-    ".darwin-universal.node"
+    "cool.darwin-universal.node"
   ],
-  "description": "Rust based nodejs library",
+  "description": "Nodejs library based on rust using napi",
   "license": "MIT",
   "engines": {
     "node": ">= 10"

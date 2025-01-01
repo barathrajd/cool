@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "@barathrajd/cool",
   "version": "0.0.3",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "",
+    "name": "cool",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",
@@ -43,5 +43,5 @@
   },
   "packageManager": "yarn@4.6.0",
   "repository": "https://github.com/barathrajd/cool",
-  "description": "Rust based nodejs library"
+  "description": "Nodejs library based on rust using napi"
 }

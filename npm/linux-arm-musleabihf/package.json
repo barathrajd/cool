@@ -1,5 +1,5 @@
 {
-  "name": "-linux-arm-musleabihf",
+  "name": "@barathrajd/cool-linux-arm-musleabihf",
   "version": "0.0.3",
   "os": [
     "linux"
@@ -7,11 +7,11 @@
   "cpu": [
     "arm"
   ],
-  "main": ".linux-arm-musleabihf.node",
+  "main": "cool.linux-arm-musleabihf.node",
   "files": [
-    ".linux-arm-musleabihf.node"
+    "cool.linux-arm-musleabihf.node"
   ],
-  "description": "Rust based nodejs library",
+  "description": "Nodejs library based on rust using napi",
   "license": "MIT",
   "engines": {
     "node": ">= 10"

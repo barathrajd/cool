@@ -1,5 +1,5 @@
 {
-  "name": "@barathrajd/cool-win32-ia32-msvc",
+  "name": "-win32-ia32-msvc",
   "version": "0.0.2",
   "os": [
     "win32"
@@ -7,12 +7,14 @@
   "cpu": [
     "ia32"
   ],
-  "main": "cool.win32-ia32-msvc.node",
+  "main": ".win32-ia32-msvc.node",
   "files": [
-    "cool.win32-ia32-msvc.node"
+    ".win32-ia32-msvc.node"
   ],
+  "description": "Rust based nodejs library",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/barathrajd/cool"
 }

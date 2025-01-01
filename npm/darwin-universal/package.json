@@ -1,15 +1,17 @@
 {
-  "name": "@barathrajd/cool-darwin-universal",
+  "name": "-darwin-universal",
   "version": "0.0.2",
   "os": [
     "darwin"
   ],
-  "main": "cool.darwin-universal.node",
+  "main": ".darwin-universal.node",
   "files": [
-    "cool.darwin-universal.node"
+    ".darwin-universal.node"
   ],
+  "description": "Rust based nodejs library",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/barathrajd/cool"
 }

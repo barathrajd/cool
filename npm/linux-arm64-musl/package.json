@@ -1,5 +1,5 @@
 {
-  "name": "@barathrajd/cool-linux-arm64-musl",
+  "name": "-linux-arm64-musl",
   "version": "0.0.2",
   "os": [
     "linux"
@@ -7,14 +7,16 @@
   "cpu": [
     "arm64"
   ],
-  "main": "cool.linux-arm64-musl.node",
+  "main": ".linux-arm64-musl.node",
   "files": [
-    "cool.linux-arm64-musl.node"
+    ".linux-arm64-musl.node"
   ],
+  "description": "Rust based nodejs library",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
   },
+  "repository": "https://github.com/barathrajd/cool",
   "libc": [
     "musl"
   ]

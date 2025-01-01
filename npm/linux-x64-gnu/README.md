@@ -1,3 +1,3 @@
-# `@barathrajd/cool-linux-x64-gnu`
+# `-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `@barathrajd/cool`
+This is the **x86_64-unknown-linux-gnu** binary for ``

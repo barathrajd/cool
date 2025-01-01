@@ -1,3 +1,3 @@
-# `@barathrajd/cool-android-arm64`
+# `-android-arm64`
 
-This is the **aarch64-linux-android** binary for `@barathrajd/cool`
+This is the **aarch64-linux-android** binary for ``

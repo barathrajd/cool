@@ -1,5 +1,5 @@
 {
-  "name": "@barathrajd/cool-darwin-x64",
+  "name": "-darwin-x64",
   "version": "0.0.2",
   "os": [
     "darwin"
@@ -7,12 +7,14 @@
   "cpu": [
     "x64"
   ],
-  "main": "cool.darwin-x64.node",
+  "main": ".darwin-x64.node",
   "files": [
-    "cool.darwin-x64.node"
+    ".darwin-x64.node"
   ],
+  "description": "Rust based nodejs library",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/barathrajd/cool"
 }

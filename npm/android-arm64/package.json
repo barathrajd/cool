@@ -1,5 +1,5 @@
 {
-  "name": "@barathrajd/cool-android-arm64",
+  "name": "-android-arm64",
   "version": "0.0.2",
   "os": [
     "android"
@@ -7,12 +7,14 @@
   "cpu": [
     "arm64"
   ],
-  "main": "cool.android-arm64.node",
+  "main": ".android-arm64.node",
   "files": [
-    "cool.android-arm64.node"
+    ".android-arm64.node"
   ],
+  "description": "Rust based nodejs library",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/barathrajd/cool"
 }

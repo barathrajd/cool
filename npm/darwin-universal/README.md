@@ -1,3 +1,3 @@
-# `@barathrajd/cool-darwin-universal`
+# `-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `@barathrajd/cool`
+This is the **universal-apple-darwin** binary for ``

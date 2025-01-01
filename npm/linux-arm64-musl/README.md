@@ -1,3 +1,3 @@
-# `@barathrajd/cool-linux-arm64-musl`
+# `-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@barathrajd/cool`
+This is the **aarch64-unknown-linux-musl** binary for ``
